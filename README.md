@@ -1,2 +1,2 @@
-# iot
-local project
+print('hello')
+print('origin')
